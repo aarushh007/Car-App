@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import {cars} from "./cars";
-import Car from "./Car"
+import Car from "./Car";
 
 function Carlist() {
   return (
